@@ -1,3 +1,7 @@
+#! usr/bin/env node
+
+// shabing
+
 import inquirer from "inquirer";
 
 // 1)computer will generote a nondom number 

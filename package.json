@@ -1,9 +1,13 @@
 {
-  "name": "cli-number-guessing-game",
-  "version": "1.0.0",
+  "name": "nvi365-cli-number-guessing-game",
+  "version": "1.0.1",
   "description": "this is a cli number guessing game",
   "main": "index.js",
   "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
